@@ -1,2 +1,2 @@
 # craft-bookinglive
-Bookinglive 
+Bookinglive integration for Craft CMS
